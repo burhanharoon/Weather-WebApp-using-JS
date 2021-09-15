@@ -1,1 +1,3 @@
-A basic yet powerful web app that is capable of displaying the wheather data for a certain city when searched.
+A basic yet powerful web app that is capable of displaying the weather data for a certain city when searched.
+Initially, it would ask for the city keyword to search and then next time (when the page is refreshed) it would automatically display the weather of the last city you typed in the search bar. All this is done using localStorage (A JavaScript API for storing some data on your device)
+You can visit my project at: https://ez-sherlock.github.io/Weather-WebApp-using-JS/
